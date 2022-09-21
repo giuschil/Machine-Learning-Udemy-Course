@@ -9,6 +9,8 @@ Created on Tue Sep 20 19:21:02 2022
 from funzioni import *
 
 
+prime_calc(3)
+
 #calcola numeri primi
 
     
